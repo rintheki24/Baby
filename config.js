@@ -4,7 +4,7 @@ const CONFIG = {
     em lớn rồi em phải ngủ với anh`,
     btnIntro: 'hehe',
     title: 'Tối qua em đã khiến con tim này say mê hơn đó, và concu cũng vậy🐧',
-    desc: 'liệu Cyn có mún nude cho Ryn hong =))) ',
+    desc: 'liệu Cyn có mún nude cho Ryn tiếp hong =))) ',
     btnYes: 'Dạ được <33',
     btnNo: 'hong :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
