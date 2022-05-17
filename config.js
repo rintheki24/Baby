@@ -1,16 +1,16 @@
 const CONFIG = {
     introTitle: 'Quỳnh à!',
-    introDesc: `Gió mùa thu nhẹ mẹ ru em ngủ
-    em lớn rồi em phải ngủ với anh`,
+    introDesc: `Trời chợt đổ mùa đông giữa mùa hè.
+Còn em thì đổ anh giữa chốn trần gian`,
     btnIntro: 'hehe',
-    title: 'Tối qua em đã khiến con tim này say mê hơn đó, và concu cũng vậy🐧',
-    desc: 'đụ hong em :3 ',
-    btnYes: 'Dạ cóoo <33',
-    btnNo: 'hong :3',
-    question:'Tại sao bạn lại yêu tôi <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Địt con mẹ anhh',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Lát call nude cho a coi tiếp nhé nhăm nhăm UwU',
+    title: 'Cảm ơn anh vì tặng em con diana :3',
+    desc: 'Làm ny em nha :3 ',
+    btnYes: 'Cóoo <33',
+    btnNo: 'không :3',
+    question:'Tại sao anh lại yêu em <3',
+    btnReply: 'Gửi cho em <3',
+    reply: 'tại yêu thì yêu mà không yêu cũng phải yêu <333333333333',
+    mess: 'Em biết mà 🥰. Yêu anh nhiều nhiều 😘😘',
+    messDesc: 'Mai chơi với em tiếp nhé UwU',
     btnAccept: 'Dạaaaaa <3',
     messLink: 'https://www.messenger.com/t/100036791652510' }
