@@ -10,7 +10,7 @@ Còn em thì đổ chị giữa chốn trần gian`,
     question:'Tại sao chị lại yêu em <3',
     btnReply: 'Gửi cho em <3',
     reply: 'tại yêu thì yêu mà không yêu cũng phải yêu <333333333333',
-    mess: 'Em biết mà 🥰. Yêu anh nhiều nhiều 😘😘',
+    mess: 'Em biết mà 🥰. Yêu chị nhiều😘😘',
     messDesc: 'Mai chơi với em tiếp nhé UwU',
     btnAccept: 'Dạaaaaa <3',
     messLink: 'https://www.messenger.com/t/100036791652510' }
