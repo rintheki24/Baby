@@ -12,5 +12,5 @@ const CONFIG = {
     mess: 'Chúc mừng bạn đã trúng giải! thứ đánh đổi chính là nỗi buồn của bạn nha <3',
     messDesc: 'Tim một cái để nhận giải nha :3',
     btnAccept: 'Dạa <3',
-    messLink: 'https://www.messenger.com/t/100077651577057', 
+    messLink: 'https://www.messenger.com/t/100077651577057'. 
 }
