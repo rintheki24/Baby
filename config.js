@@ -9,7 +9,7 @@ const CONFIG = {
     question:'Lý do bạn tham gia',
     btnReply: 'Gửi câu trả lời',
     reply: 'Tại vì mình dễ thương nhất quả đất :>>>>>>>>>>',
-    mess: 'Chúc mừng bạn đã chúng giải! thứ đánh đổi chính là nỗi buồn của bạn nha <3',
+    mess: 'Chúc mừng bạn đã trúng giải! thứ đánh đổi chính là nỗi buồn của bạn nha <3',
     messDesc: 'Tim một cái để nhận giải nha :3',
     btnAccept: 'Dạa <3',
     messLink: 'https://www.messenger.com/t/100077651577057' }
