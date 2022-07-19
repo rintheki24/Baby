@@ -7,7 +7,7 @@ const CONFIG = {
     btnYes: 'Uci',
     btnNo: 'KHÔNG',
     question:'Chúc mừng đã trúng thưởng :>>',
-    btnReply: 'Lý do bạn tham gia chương trình bốc thăm này',
+    btnReply: 'Lý do tham gia chương trình bốc thăm này',
     reply: 'Không cần lý do vì mình dễ thương là được rồiiiiiiiiiiiiiiiiiii',
     mess: 'Ucii :> giờ chương trình sẽ lấy phí tham gia 😈',
     messDesc: 'Đó là sự cô đơn và buồn bã🥺 Một bông hoa xinh đẹp thì không nên ủ rủ hoài vậy đâuuu',
