@@ -1,16 +1,19 @@
 const CONFIG = {
-    introTitle: 'Cảm ơn vì đã tin tưởng ấn vào đường link này <3',
-    introDesc: `Chào mừng bạn tham gia chương trình bốc thăm may mắn siêu dth này :>>`,
-    btnIntro: 'Ucii :>',
-    title: 'Nhưng bạn sẽ đánh đổi một thứ khi tham gia chương trình này',
-    desc: 'Bạn có muốn tiếp tục không? ',
-    btnYes: 'Cóoo',
-    btnNo: 'hong :<',
-    question:'Lý do bạn tham gia',
-    btnReply: 'Gửi câu trả lời',
-    reply: 'Tại vì mình dễ thương nhất quả đất :>>>>>>>> ',
-    mess: 'Chúc mừng bạn đã trúng giải! thứ đánh đổi chính là nỗi buồn của bạn nha <3',
-    messDesc: 'Tim một cái để nhận giải nha :3',
-    btnAccept: 'Dạa <3',
-    messLink: 'https://www.messenger.com/t/100077651577057'. 
+    introTitle: 'Babe à!',
+    introDesc: `Trái đất vốn lạ thường
+    Mà sao em cứ đi nhầm đường
+    Lạc vào tim anh lẻ loi
+    Đằng sau chữ yêu đây là thương`,
+    btnIntro: 'hihi',
+    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
+    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    btnYes: 'Vẫn cứ là thích anh <33',
+    btnNo: 'Không, Anh trai à :3',
+    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
+    btnReply: 'Gửi cho anh <3',
+    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
+    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    btnAccept: 'Okiiiii lun <3',
+    messLink: 'https://www.messenger.com/t/100077651577057'
 }
