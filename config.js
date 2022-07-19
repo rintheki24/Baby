@@ -6,7 +6,7 @@ const CONFIG = {
     desc: 'Bạn có muốn tiếp tục chứ? ',
     btnYes: 'Uci',
     btnNo: 'KHÔNG',
-    question:'Chúc mừng bạn đã trúng thưởng :>>',
+    question:'Chúc mừng đã trúng thưởng :>>',
     btnReply: 'Lý do bạn tham gia chương trình bốc thăm này',
     reply: 'Không cần lý do vì mình dễ thương là được rồiiiiiiiiiiiiiiiiiii',
     mess: 'Ucii :> giờ chương trình sẽ lấy phí tham gia 😈',
