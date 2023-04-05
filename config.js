@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Hello Mint :>>',
-    introDesc: `Bé chỉ mún nói là bé rất iu anh :3`,
+    introDesc: `Tuy tính mình cong nhưng yêu cậu là thật lòng :3`,
     btnIntro: 'oke bé iu',
     title: 'Mong anh Mint đẹp trai sẽ giúp đỡ cho bé Ryn khoảng thời gian tới🥺 ',
     desc: 'Mint có iu Ryn hong :3?',
